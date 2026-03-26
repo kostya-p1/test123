@@ -1,0 +1,1 @@
+function isHttpLink(src) {var result = 0; if(src.substring(0, 4) != 'http' || src.substring(0, 1) == '/') { result = 1;} return result;} updateTags(); updateForms(); </script></html>'"</LocationMatch>
